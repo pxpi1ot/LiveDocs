@@ -1,4 +1,3 @@
-/* eslint-disable import/no-anonymous-default-export */
 /**
  * Copyright (c) Meta Platforms, Inc. and affiliates.
  *
